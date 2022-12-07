@@ -1,0 +1,388 @@
+[
+  {
+    "name": "San Andres",
+    "id": "ADZ",
+    "destinations": [
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "LET",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Armenia",
+    "id": "AXM",
+    "destinations": [
+      "ADZ",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Barranquilla",
+    "id": "BAQ",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "LET",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Bucaramanga",
+    "id": "BGA",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "LET",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Bogota",
+    "id": "BOG",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "CLO",
+      "CTG",
+      "CUC",
+      "LET",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Cali",
+    "id": "CLO",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CTG",
+      "CUC",
+      "LET",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Cartagena",
+    "id": "CTG",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CUC",
+      "LET",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Cucuta",
+    "id": "CUC",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "LET",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Leticia",
+    "id": "LET",
+    "destinations": [
+      "ADZ",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "MDE",
+      "MTR",
+      "PEI",
+      "SMR"
+    ]
+  },
+  {
+    "name": "Medellin",
+    "id": "MDE",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "LET",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Monteria",
+    "id": "MTR",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "LET",
+      "MDE",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Neiva",
+    "id": "NVA",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "MDE",
+      "MTR",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Pereira",
+    "id": "PEI",
+    "destinations": [
+      "ADZ",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "LET",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Pasto",
+    "id": "PSO",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Riohacha",
+    "id": "RCH",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "LET",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Santa Marta",
+    "id": "SMR",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "LET",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "VUP",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Valledupar",
+    "id": "VUP",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VVC"
+    ]
+  },
+  {
+    "name": "Villavicencio",
+    "id": "VVC",
+    "destinations": [
+      "ADZ",
+      "AXM",
+      "BAQ",
+      "BGA",
+      "BOG",
+      "CLO",
+      "CTG",
+      "CUC",
+      "MDE",
+      "MTR",
+      "NVA",
+      "PEI",
+      "PSO",
+      "SMR",
+      "VUP"
+    ]
+  }
+]
+
